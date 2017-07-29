@@ -17,6 +17,7 @@ header {
   padding: 30px;
   position: fixed;
   width: 100%;
+  margin-top: -10px;
 
 /*This makes a temporary border to visualize the header box.*/
   /*border: 1pt black solid;
@@ -269,7 +270,7 @@ margin: -10px 0 0 0px;
 }
 
 .imageSet2 > div > p{
-margin: -70px 0px 0 5px;
+margin: -70px 0px 0px 5px;
 }
 
 /*This splits the top row areas up.*/
