@@ -449,8 +449,10 @@ background: url("/week-one-project/images/optimized/background-3.jpg") center ce
   font-size: 12px;
   line-height: 1.8em;
   position: relative;
+  width: 150px;
   float: right;
   wrap: nowrap;
+
 }
 
 /*Gives the table a blue outline.*/
